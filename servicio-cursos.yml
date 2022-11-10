@@ -21,4 +21,4 @@ eureka:
   instance:
       instance-id: instancia1
 server:
-  port: 8000 
+  port: 8787 
